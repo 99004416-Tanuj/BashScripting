@@ -1,0 +1,3 @@
+This is a sample file for using grep
+We can also do it from windows
+it is also possible through MAC
